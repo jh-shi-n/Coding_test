@@ -1,4 +1,4 @@
-#1차 시도
+#1차 시도 _ 정확도 20%
 def solution(answers):
     scores = [0,0,0]
     answer = []
@@ -23,7 +23,7 @@ def solution(answers):
     return answer
 
 
-#2차 시도
+#2차 시도 _ 정확도 100%
 def solution(answers):
     scores = [0,0,0]
     pt1 = [1,2,3,4,5]
