@@ -1,5 +1,5 @@
 #1차 시도 _ 정확도 20%
-"""
+''' Python
 def solution(answers):
     scores = [0,0,0]
     answer = []
@@ -22,11 +22,11 @@ def solution(answers):
             answer.append(i+1)
     
     return answer
-"""
+'''
 
 
 #2차 시도 _ 정확도 100%
-"""
+''' Python
 def solution(answers):
     scores = [0,0,0]
     pt1 = [1,2,3,4,5]
@@ -47,4 +47,4 @@ def solution(answers):
             result.append(j+1)
     
     return result
-"""
+'''
