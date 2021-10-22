@@ -1,5 +1,14 @@
 # Codetest!
 
-- 프로그래머스 및 백준 코딩테스트 문제 위주 혼자 풀이 후 코드 업로드 진행
+- 문제 풀이 후 코드 업로드 진행합니다.
+- 하루에 한문제씩 풀이합니다.
 
-# 하루에 한문제씩
+- 문제 풀이 사이트
+<pre>
+<code>
+Hackersbank
+Programmers
+BaekJoon
+</code>
+</pre>
+
