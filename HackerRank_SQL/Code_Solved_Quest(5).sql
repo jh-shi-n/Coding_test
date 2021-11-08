@@ -1,0 +1,10 @@
+#The Blunder
+SELECT CEIL(AVG(Salary)-AVG(REPLACE(Salary,'0',''))) 
+FROM EMPLOYEES;
+
+#Top Earners
+SELECT (salary * months) AS EARNING, COUNT(*) 
+FROM EMPLOYEE
+GROUP BY 1 
+ORDER BY EARNING DESC
+LIMIT 1;
