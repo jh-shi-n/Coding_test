@@ -18,4 +18,4 @@ else:
     for i in range(2,n) :
         dt[i] = max(dt[i-3]+point[i-1]+point[i], dt[i-2] + point[i])
 
-    print(dt[-i])
+    print(dt[-1])
